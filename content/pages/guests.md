@@ -1,5 +1,6 @@
-Title: Guests
+Title: PyBites Authors
 status: hidden
+Slug: guests
 
 <p>On this page we maintain short bios of all the awesome folks that have been guest posting on our site (in order of appearance):</p>
 
@@ -82,7 +83,7 @@ status: hidden
 
 <div id="erikoshaughnessy">
         <h3><a name="erikoshaughnessy">Erik O'Shaughnessy</a></h3>
-		<p>Husband, father, <a href="https://github.com/JnyJny">hacker</a>, gamer, storyteller, egregeous guitarist, <a href="https://www.urbandictionary.com/define.php?term=hoplophile">hoplophile</a>, space enthusiast, <a href="https://linkedin.com/in/erikoshaughnessy">UNIX system programmer</a>, scuba diver, amatuer radio operator, remote-control neophyte, part-time <a href="http://www.sci-fi-o-rama.com">sci-fi</a> snob, passing <a href="https://deviantart.com/jnyjny/gallery">cartoonist</a>, enthusiastsic karateka, whiskey drinker, acolyte of <a href="https://en.wikipedia.org/wiki/Schwa_(art)">Schwa</a>, semi-good pythonista, recovering trombonist, mechanical keyboard afficiando, unapologetic Apple fanboi, pickup truck driver, naked-eye exoplanet hunter and seriously grouchy in the morning before the first cup of coffee.</p>
+		<p>Husband, father, <a href="https://github.com/JnyJny">hacker</a>, gamer, storyteller, egregeous guitarist, <a href="https://www.urbandictionary.com/define.php?term=hoplophile">hoplophile</a>, space enthusiast, <a href="https://linkedin.com/in/erikoshaughnessy">UNIX system programmer</a>, scuba diver, amatuer radio operator, remote-control neophyte, part-time <a href="http://www.sci-fi-o-rama.com">sci-fi</a> snob, passing <a href="https://deviantart.com/jnyjny/gallery">cartoonist</a>, enthusiastic karateka, whiskey drinker, acolyte of <a href="https://en.wikipedia.org/wiki/Schwa_(art)">Schwa</a>, semi-good pythonista, recovering trombonist, mechanical keyboard afficiando, unapologetic Apple fanboi, pickup truck driver, naked-eye exoplanet hunter and seriously grouchy in the morning before the first cup of coffee.</p>
         <p>Erik's <a href="https://pybit.es/author/erik-oshaughnessy.html">posts</a>.</p>
 </div>
 <br>
@@ -103,7 +104,7 @@ status: hidden
 
 <div id="anthonylister">
         <h3><a name="anthonylister">Anthony Lister</a></h3>
-        <p>Anthony is qualified in baseband hardware electronics and system design engineering having worked for a handful of mobile phone and mission-critical comms companies. Now works in another industry which is also an all encompassing passion of his; aviation. Also a self confessed gadget geek, Scotch malt whisky fan, cyclist and now fledgling Pythonista in training. Can often be found building robots using micropython with his two sons at weekends. Active participant of the <a href="https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python?s=pybites" target="_blank">#100daysofcode course</a>. Follow his progress on Twitter at <a href="https://twitter.com/Anthlis" target="_blank">@Anthlis</a>.</p>
+        <p>Anthony is qualified in baseband hardware electronics and system design engineering having worked for a handful of mobile phone and mission-critical comms companies. Now works in another industry which is also an all encompassing passion of his; aviation. Also a self confessed gadget geek, Scotch malt whisky fan, cyclist and now fledgling Pythonista in training. Can often be found building robots using micropython with his two sons at weekends. Active participant of the <a href="https://talkpython.fm/100days?s=pybites" target="_blank">#100daysofcode course</a>. Follow his progress on Twitter at <a href="https://twitter.com/Anthlis" target="_blank">@Anthlis</a>.</p>
         <p>Anthony's <a href="https://pybit.es/author/anthony-lister.html">posts</a>.</p>
 </div>
 <br>
@@ -117,7 +118,7 @@ status: hidden
 
 <div id="ajkerrigan">
        <h3><a name="ajkerrigan"></a>AJ Kerrigan</h3>
-        <p>AJ tries to understand how things work (code, books, music, people...) and share things along the way. Come say hi on <a href="https://twitter.com/aj_kerrigan">Twitter</a>, <a href="https://dev.to/ajkerrigan">DEV</a> or <a href="https://github.com/ajkerrigan/">GitHub</a>. Tell him something interesting you learned, and he'll probably be as excited as you are!</p>
+        <p>AJ tries to understand how things work (code, books, music, people...) and share things along the way. Come say hi on <a href="https://twitter.com/aj_kerrigan" target="_blank">Twitter</a>, <a href="https://dev.to/ajkerrigan" target="_blank">DEV</a> or <a href="https://github.com/ajkerrigan/" target="_blank">GitHub</a>. Tell him something interesting you learned, and he'll probably be as excited as you are!</p>
        <p>AJ's <a href="https://pybit.es/author/aj-kerrigan.html">posts</a>.</p>
 </div>
 <br>
@@ -129,9 +130,56 @@ status: hidden
 </div>
 <br>
 
-<hr>
+<div id="harrisonmorgan">
+	<h3><a name="harrisonmorgan"></a>Harrison Morgan</h3>
+	<p>Harrison has been a hobbyist Python programmer for several years. He enjoys learning, solving hard problems, and teaching others. When not programming, you can probably find him in a tree, reading a book. You can follow him on <a href="https://twitter.com/HarrisonMorgan8" target="_blank">Twitter</a> and <a href="https://github.com/Harrison88" target="_blank">GitHub</a>.</p>
+	<p>Harrison's <a href="https://pybit.es/author/harrison-morgan.html">posts</a>.</p>
+</div>
+<br>
 
-<p>And to read about PyBites co-creators Bob and Julian you can head over to our <a href="https://pybit.es/pages/about.html">about page</a>.</p>
+<div id="ryancheley">
+	<h3><a name="ryancheley"></a>Ryan Cheley</h3>
+	<p>Ryan uses code to solve problems. He enjoys writing Python, but to pay the bills he works for a Healthcare organization and manages people and goes to meetings day to day. You can follow him on <a href="https://twitter.com/ryancheley" target="_blank">Twitter</a>, <a href="https://github.com/ryancheleye" target="_blank">GitHub</a>, or his personal blog <a href="https://www.ryancheley.com" target="_blank_">RyanCheley.com</a>.</p>
+	<p>Ryan's <a href="https://pybit.es/author/ryan-cheley.html">posts</a>.</p>
+</div>
+<br>
+
+<div id="christoolivier">
+	<h3><a name="christoolivier"></a>Christo Olivier</h3>
+	<p>Christo has spent his entire career (and life) tinkering with computers. He currently builds out data engineering platforms in the cloud and can generally be found sneaking more Python into any project he touches. You can follow him on <a href="https://twitter.com/oli4twist" target="_blank">Twitter</a> and <a href="https://github.com/christo-olivier" target="_blank">GitHub</a>.</p>
+	<p>Christo's <a href="https://pybit.es/author/christo-olivier.html">posts</a>.</p>
+</div>
+<br>
+
+<div id="robinbeer">
+	<h3><a name="robinbeer"></a>Robin Beer</h3>
+	<p>Robin is an energy data scientist leveraging Python to accelerate the transition to a sustainable energy system. You can follow him on <a href="https://www.robin-beer.de/" target="_blank">his website</a>.</p>
+	<p>Robin's <a href="https://pybit.es/author/robin-beer.html">posts</a>.</p>
+</div>
+<br>
+
+<div id="peterbabalola">
+	<h3><a name="peterbabalola"></a>Peter Babalola</h3>
+	<p>Peter is an undergraduate computer science major, freelance developer and open source contributor leveraging Python and Django Framework to create stunning web applications. You can follow him on <a href="https://twitter.com/Developerayyo" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/babalola-peter-689768163/" target="_blank">LinkedIN</a> or <a href="https://developerayo.tech/" target="_blank">his website</a></p>
+	<p>Peter's <a href="https://pybit.es/author/peter-babalola.html">posts</a>.</p>
+</div>
+<br>
+
+<div id="davidcolton">
+	<h3><a name="davidcolton"></a>David Colton</h3>
+	<p>David is an undergraduate computer science major, freelance developer and open source contributor leveraging Python and Django Framework to create stunning web applications. You can follow him on <a href="https://twitter.com/David__Colton" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/davidcolton/" target="_blank">LinkedIN</a>, <a href="https://github.com/davidcolton/" target="_blank">GitHub</a> or <a href="https://davidcolton.github.io/" target="_blank">his website</a></p>
+	<p>David's <a href="https://pybit.es/author/david-colton.html">posts</a>.</p>
+</div>
+
+<div id="michaelaydinbas">
+	<h3><a name="michaelaydinbas"></a>Michael Aydinbas</h3>
+	<p>Michael is a data scientist and data engineer who can't (and doesn't want to) decide which of the two worlds he belongs to, so he tries to love them both. His background is in psychology and computer science as well as environmental engineering. He uses the Python data stack along with large-scale data technologies to help his customers migrate their workflows into the 21st century. You can follow him on <a href="https://www.linkedin.com/in/michael-aydinbas/" target="_blank">LinkedIn</a> and <a href="https://github.com/pmayd/" target="_blank">GitHub</a>.
+	<p>Michaels' <a href="https://pybit.es/author/michael-aydinbas.html">posts</a>.</p>
+</div>
+
+<!-- insert your new bio above this line -->
+
+<hr>
 
 <script type="text/javascript">
     var author = window.location.hash.substr(1);
